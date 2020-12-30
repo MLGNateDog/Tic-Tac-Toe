@@ -1,5 +1,3 @@
-//Program not sending row info, just spawning x's and o's in the top row.
-
 //server (sends x's(2))
 
 color green = #84A755;
