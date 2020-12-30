@@ -1,5 +1,3 @@
-//Program not sending row info, just spawning x's and o's in the top row.
-
 //Client - 1's (o's)
 color green = #84A755; //our turn
 color orange = #D07B06; //waiting
